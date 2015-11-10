@@ -1,0 +1,23 @@
+{
+  "name": "simple-socket-chat",
+  "version": "1.0.0",
+  "description": "A simple app using socket.io to create a cheat relay",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErikAbrahamson/simple-socket-chat.git"
+  },
+  "keywords": [
+    "socket.io",
+    "nodejs"
+  ],
+  "author": "Erik Abrahamson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ErikAbrahamson/simple-socket-chat/issues"
+  },
+  "homepage": "https://github.com/ErikAbrahamson/simple-socket-chat#readme"
+}
